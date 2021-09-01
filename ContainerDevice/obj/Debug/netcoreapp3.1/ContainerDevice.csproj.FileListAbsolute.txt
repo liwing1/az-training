@@ -2,6 +2,7 @@ C:\Users\liwka\Documents\Orion\az-training\ContainerDevice\obj\Debug\netcoreapp3
 C:\Users\liwka\Documents\Orion\az-training\ContainerDevice\obj\Debug\netcoreapp3.1\ContainerDevice.AssemblyInfoInputs.cache
 C:\Users\liwka\Documents\Orion\az-training\ContainerDevice\obj\Debug\netcoreapp3.1\ContainerDevice.AssemblyInfo.cs
 C:\Users\liwka\Documents\Orion\az-training\ContainerDevice\obj\Debug\netcoreapp3.1\ContainerDevice.csproj.CoreCompileInputs.cache
+C:\Users\liwka\Documents\Orion\az-training\ContainerDevice\bin\Debug\netcoreapp3.1\sensor-thl-2000-device.cert.pfx
 C:\Users\liwka\Documents\Orion\az-training\ContainerDevice\bin\Debug\netcoreapp3.1\ContainerDevice.exe
 C:\Users\liwka\Documents\Orion\az-training\ContainerDevice\bin\Debug\netcoreapp3.1\ContainerDevice.deps.json
 C:\Users\liwka\Documents\Orion\az-training\ContainerDevice\bin\Debug\netcoreapp3.1\ContainerDevice.runtimeconfig.json
